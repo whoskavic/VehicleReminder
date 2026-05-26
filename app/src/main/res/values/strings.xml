@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vehicle Reminder</string>
+    <string name="no_vehicles">Belum ada kendaraan.\nTekan + untuk menambahkan.</string>
+    <string name="add_vehicle">Tambah Kendaraan</string>
+</resources>
